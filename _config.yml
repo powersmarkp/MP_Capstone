@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Computer Science Capstone
+email: mark.powers@snhu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site was created by me (Mark Powers) with the sole purpose of showcasing my skills
+  and demonstrating everything I have learned throughout my computer science journey. If 
+  you have any questions about the content contained on this site, reach out to me.
 baseurl: "MP_Capstone" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  powermarkp
 
 # Build settings
 theme: minima
