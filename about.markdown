@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: I love you Heather!
 permalink: /about/
 ---
 
