@@ -5,7 +5,9 @@ date:   2024-10-04 09:14:00 -0400
 ---
 Before beginning the enhancements on past projects, I needed to do a code review of the artifacts to get an idea of what was done right and what still needed some work.
 
-You can find the video of my code review on <a href="https://www.youtube.com/watch?v=dHoYUg8VfsY" target="_blank">Youtube</a>
+You can find the video of my code review on 
+<a href="https://www.youtube.com/watch?v=dHoYUg8VfsY"target="_blank">Youtube</a>.
+
 
 Below is a journal about my code review process.
 
