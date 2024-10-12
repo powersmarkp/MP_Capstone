@@ -7,8 +7,15 @@ I have always had a fascination for computers ever since I was little, so it's n
 <br>
 
 ### A Summary of My Skills
+#### Every great journey...
 
+![Python Text Based Game](images/textBasedGameSnippet.png)
 
 ### What My Work Says About Me
-The projects that I've completed up to this point have been stepping stones in which I've learned and forgotten countless lessons. One of the greatest lessons I've learned is that it's not about what you remember because nobody can remember everything. What's most important is remembering enough, knowing where to go to fill in the gaps, and having the right tools to make it all happen. The artifact enhancements I've made in this capstone course are a demonstration of my ability to do just that and deliver a quality product that not only meets but exceeds client requirements.
+The projects that I've completed up to this point have been stepping stones in which I've learned and forgotten countless lessons. One of the greatest lessons I've learned is that it's not about what you remember because nobody can remember everything. 
+What's most important is:
+[x] Remembering enough to get started in the right direction
+[X] Knowing where to go to fill in the gaps and 
+[x] Having the right tools to make it all happen
+ The artifact enhancements I've made in this capstone course are a demonstration of my ability to do just that and deliver a quality product that not only meets but exceeds client requirements.
 <br>
