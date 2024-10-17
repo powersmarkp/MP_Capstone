@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Enhancement Two"
-date:   2024-10-06 14:26:00 -0400
+title:  "Enhancement Two Narrative"
+date:   2024-10-09 14:00:00 -0400
 ---
 
 ### Enhancement Two Narrative

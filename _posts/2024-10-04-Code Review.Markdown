@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Code Review"
-date:   2024-10-04 09:14:00 -0400
+date:   2024-10-10 10:00:00 -0400
 ---
 Before beginning the enhancements on past projects, I needed to do a code review of the artifacts to get an idea of what was done right and what still needed some work.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Enhancement Three"
+title:  "Enhancement Three Narrative"
 date:   2024-10-07 13:46:38 -0400
 ---
 ### Enhancement Three Narrative

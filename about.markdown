@@ -3,10 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<br><br><br>
 This site was created by me (Mark Powers) with the sole purpose of showcasing my skills and demonstrating everything I have learned throughout my computer science journey. If  you have any questions about the content contained on this site, reach out to me.
 
-<br>
+<br><br><br><br><br>
+
 This is the base Jekyll theme, Minima. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
