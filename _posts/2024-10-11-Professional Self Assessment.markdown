@@ -31,7 +31,7 @@ The next skills I would obtain were being able to understand and implement datab
 
 Data structures were different however. As my first major challenge, I understood how things like linked lists, hash tables, and binary search trees worked, but I had the hardest time getting the code correct. If nothing else, I am persistant and I spent a lot of time at my computer studying not only data structures but Java as well, hoping to finally make sense of binary search trees. My determination paid off as I was able to complete that course and move on to my next challenge. Below is a piece of my pseudocode that I used to make sense of it all.<br>
 
-![Binary Search Pseudo](/images/BinarySearch.png)<br>
+![Binary Search Pseudo](images/BinarySearch.png)<br>
 
 After all of this hard work, I've arrived at the Computer Science Capstone. This course isn't the end, but the beginning. I'm not just writing code to finish assignments; I'm setting a standard. Each and every piece of work that I touch from this point forward will be a reflection of all that I've learned and will show that I have attained the skills needed to be a valuable asset to the computer science industry. I want my work to speak for me and this is...<br>
 
